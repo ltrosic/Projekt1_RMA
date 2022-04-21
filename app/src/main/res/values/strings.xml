@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projekt1_RMA</string>
+    <string name="nazad">Nazad</string>
+    <string name="symbol">Symbol</string>
+    <string name="highValue">High Value</string>
+    <string name="REST_API">https://api.wazirx.com/sapi/v1/tickers/24hr</string>
+</resources>
